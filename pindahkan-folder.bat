@@ -1,6 +1,6 @@
 @echo off
 
-set "source=%USERPROFILE%\Desktop\Extensions"
+set "source=%USERPROFILE%\Desktop\qibiiyt\Extensions"
 set "destination=C:\"
 
 echo Memindahkan folder Extensions...
